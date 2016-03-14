@@ -23,7 +23,14 @@ cat cert.pem key.pem  >  ck.pem
 
 -----------------------------------------------
 
+Add follwing File on you web server localhost/live host
+
+ck.pem
+
+send_notification.php
 
 
+
+HELP:
 Apple developer account & certification creation issue take help following url
 https://www.youtube.com/watch?v=_3YlqWWnI6s
